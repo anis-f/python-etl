@@ -1,0 +1,10 @@
+{
+  "data_sources": {
+    "api": {
+      "COVID" : ""
+    },
+    "csv": {
+      "covid_impact_on_airport_traffic" : "data/covid_impact_on_airport_traffic.csv"
+    }
+  }
+}
